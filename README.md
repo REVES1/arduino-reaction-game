@@ -20,6 +20,9 @@ Two players. One button each. React fast or lose.
 - Multiplexing 7-segment displays
 - State machines in `loop()`
 
+## 🛠️ In Progress
+- Add proper game start sequence (e.g. wait for a button press or countdown before first round)
+
 ## 📸 Demo
 <a href="https://streamable.com/3hbehw">
   <img src="image.png" width="200" alt="Reaction Game Demo"/>
