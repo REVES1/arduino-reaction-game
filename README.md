@@ -21,11 +21,11 @@ Two players. One button each. React fast or lose.
 - State machines in `loop()`
 
 ## 📸 Demo
-▶️ [Watch Demo](https://streamable.com/3hbehw)
+<a href="https://streamable.com/3hbehw">
+  <img src="image.png" width="200" alt="Reaction Game Demo"/>
+</a>
+<br>
+  <p><em>👆 Click the image to watch the video 👆</em></p>
 
-
-
-
-
-ps: sorry for the german/english switches everywhere haha
+<p><em>🐔 sorry for the random german documentation 🐔 </em></p>
 
