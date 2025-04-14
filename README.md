@@ -28,6 +28,3 @@ Two players. One button each. React fast or lose.
 </a>
 <br>
   <p><em>👆 Click the image to watch the video 👆</em></p>
-
-<p><em>🐔 sorry for the random german documentation 🐔 </em></p>
-
