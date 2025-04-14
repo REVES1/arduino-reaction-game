@@ -2,10 +2,11 @@
 
 Two players. One button each. React fast or lose.
 
-## 🎮 Features
+## 🎮 Game
 - White = press fast, Red = don't press!
-- Score tracking with 7-segment display
-- Random delay between rounds
+- Countdown until game start
+- 5 points to win
+- Press RESET to restart (lol) 
 
 ## 🔧 Hardware Used
 - Arduino UNO
@@ -14,14 +15,12 @@ Two players. One button each. React fast or lose.
 - 7-Segment Display (common cathode)
 - 7x 220Ω resistors (for the segments)
 - Breadboards + jumper wires
+- 102% of my brain
 
 ## 🧠 Learning Goals
 - `millis()` instead of `delay()`
 - Multiplexing 7-segment displays
-- State machines in `loop()`
-
-## 🛠️ In Progress
-- Add proper game start/end sequence 
+- Everything else lol
 
 ## 📸 Demo
 <a href="https://streamable.com/3hbehw">
