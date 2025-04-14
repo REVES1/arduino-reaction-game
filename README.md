@@ -21,7 +21,7 @@ Two players. One button each. React fast or lose.
 - State machines in `loop()`
 
 ## 🛠️ In Progress
-- Add proper game start sequence (e.g. wait for a button press or countdown before first round)
+- Add proper game start/end sequence 
 
 ## 📸 Demo
 <a href="https://streamable.com/3hbehw">
